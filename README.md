@@ -58,6 +58,31 @@ I will not be linted.
 | Name                 | Features                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------ |
 | [Macarons][macarons] | Delicious but tricky to make. Add more class to a tea party than almost any other confectionary. |
+
+
+
+
+
+<ul>
+  <li>
+    <p>term1</p>
+    <ul>
+      <li>: My description of term1</li>
+    </ul>
+  </li>
+  <li>
+    <p><code>term2</code></p>
+    <ul>
+      <li>
+        <p>: My description of term2</p>
+        <p>It can have multiple paragraphs, and code blocks too:</p>
+        <pre>
+          <code class="brush: js">const thing = 1;</code>
+        </pre>
+      </li>
+    </ul>
+  </li>
+</ul>
 | [Biscotti][biscotti] | Crisp and easier to make.                                                                        |
 
 [macarons]: https://en.wikipedia.org/wiki/Macaron
