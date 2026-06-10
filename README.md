@@ -26,3 +26,10 @@ const greeting = "I'm a secret greeting";
 I will not be linted.
 </p>
 ```
+
+
+> [!WARNING]
+> This is how you write a warning.
+>
+> It can have multiple paragraphs.
+>
