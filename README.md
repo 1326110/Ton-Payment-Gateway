@@ -33,3 +33,32 @@ I will not be linted.
 >
 > It can have multiple paragraphs.
 >
+
+
+
+
+> [!NOTE]
+> This is how you write a note.
+>
+> It can have multiple lines.
+
+
+
+
+
+> [!CALLOUT]
+>
+> **This is how you write a callout.**
+>
+> It can have multiple paragraphs.
+
+
+
+
+| Name                 | Features                                                                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------ |
+| [Macarons][macarons] | Delicious but tricky to make. Add more class to a tea party than almost any other confectionary. |
+| [Biscotti][biscotti] | Crisp and easier to make.                                                                        |
+
+[macarons]: https://en.wikipedia.org/wiki/Macaron
+[biscotti]: https://en.wikipedia.org/wiki/Biscotti
